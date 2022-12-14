@@ -29,3 +29,5 @@ Eager to learn and grab opportunities in technology😃
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CodeInsideU)
+
+![counter](https://[https://eny1eknqcaji4et.m.pipedream.net/].m.pipedream.net)
