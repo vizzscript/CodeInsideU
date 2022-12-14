@@ -30,4 +30,4 @@ Eager to learn and grab opportunities in technology😃
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CodeInsideU)
 
-![counter](https://[https://eny1eknqcaji4et.m.pipedream.net/].m.pipedream.net)
+
