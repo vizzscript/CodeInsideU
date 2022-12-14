@@ -30,4 +30,4 @@ Eager to learn and grab opportunities in technology😃
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CodeInsideU)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CodeInsideU&theme=Javascript-dark&border_radius=5.2)](https://git.io/streak-stats)
